@@ -1,0 +1,23 @@
+\begin{thebibliography}{-------}
+\providecommand{\natexlab}[1]{#1}
+
+\bibitem[Rasmussen and Williams(2006)]{gpm}
+Rasmussen, C.E.; Williams, C.K.I.
+\newblock Gaussian Processes for Machine Learning {\bf 2006}.
+
+\bibitem[Holloway and Mengersen(2018)]{rs10091365}
+Holloway, J.; Mengersen, K.
+\newblock Statistical Machine Learning Methods and Remote Sensing for
+  Sustainable Development Goals: A Review.
+\newblock {\em Remote Sensing} {\bf 2018}, {\em 10}.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.3390/rs10091365}{\detokenize{10.3390/rs10091365}}}.
+
+\bibitem[Klisch and Atzberger(2016)]{rs8040267}
+Klisch, A.; Atzberger, C.
+\newblock Operational Drought Monitoring in Kenya Using MODIS NDVI Time Series.
+\newblock {\em Remote Sensing} {\bf 2016}, {\em 8}.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.3390/rs8040267}{\detokenize{10.3390/rs8040267}}}.
+
+\end{thebibliography}
